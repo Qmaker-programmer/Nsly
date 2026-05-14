@@ -1,0 +1,9 @@
+# Binarios
+nsly
+nsly.exe
+
+# Archivos de la bóveda (¡NUNCA SUBAS ESTO!)
+.nsly_vault/
+*.hash
+*.json
+*_export_*.json
