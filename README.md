@@ -40,6 +40,10 @@ bin\\nsly.exe
 make run      # ejecución directa
 make build    # compilar binario
 make clean    # borrar lo compilado
+# O en el Makefile agrege algo para compilar a Linux, Windows y MacOS al mismo tiempo (Incluido ARM64 y AMD64)
+make build-all
+
+#todo esto quedara en bin/
 ```
 
 🔐 Seguridad — Tómatelo en serio
